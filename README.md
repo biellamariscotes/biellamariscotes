@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Biella, a Frontend Developer<br><br>💻 Information Technology student<br>🎨 UI/UX Designer<br>🌸 Currently an intern at DigiPlus<br><br>
+I'm Biella, a Frontend Developer<br><br>💻 Information Technology student<br>🎨 UI/UX Designer<br>🌸 Currently working at a project game! 👀 <br><br>
 
 
 ## 🌐 Socials:
