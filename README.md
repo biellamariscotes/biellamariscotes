@@ -1,11 +1,11 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&pause=1387&color=DD6387&width=835&lines=Hey+there%2C+I'm+Biella!+%F0%9F%8C%B8;Turning+coffee+into+code+since+2021.+Nice+to+meet+you!&center=true&size=30" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&pause=1387&color=DD6387&width=835&lines=Hey+there%2C+I'm+Biella+%F0%9F%8C%B8;Turning+coffee+into+code+since+2021!;+Nice+to+meet+you.&center=true&size=30" alt="Typing SVG" /></a>
 
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/biellamariscotes/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="img/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="img/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.hackerrank.com/bm_mariscotes" title="HackerRank Profile"><img width="22" src="img/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.instagram.com/love.biella/" title="Instagram Profile"><img width="22" src="img/instagram.svg"> Instagram</a></code>
 </h5>
 
 <br>💻 Information Technology student.<br>🎀 Currently a Frontend Developer Intern.<br>🎨 UI/UX Designer, sometimes.<br>🔰 Working at a game project! 👀 <br><br>
