@@ -10,7 +10,7 @@ I'm Biella, a Frontend Developer<br><br>💻 Information Technology student<br>�
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=biellamariscotes&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=biellamariscotes&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biellamariscotes&theme=dracula&hide_border=false&size_weight=0.5&count_weight=0.5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=biellamariscotes&theme=dracula&size_weight=0.5&count_weight=0.5)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=biellamariscotes&theme=radical&no-frame=true&no-bg=true&margin-w=4)
