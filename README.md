@@ -8,7 +8,7 @@
   <code><a href="https://www.instagram.com/love.biella/" title="Instagram Profile"><img width="22" src="img/instagram.svg"> Instagram</a></code>
 </h5>
 
-<br>💻 Information Technology student.<br>🎀 Currently a Frontend Developer Intern.<br>🎨 UI/UX Designer, sometimes.<br>🔰 Working at a game project! 👀 <br><br>
+<br>💻 Information Technology student.<br>🎀 Currently a Frontend Developer Intern.<br>🎨 UI/UX Designer, sometimes.<br>🔰 Working on a game project! 👀 <br><br>
 
 </div>
 
