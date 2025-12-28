@@ -8,7 +8,7 @@
   <code><a href="https://www.instagram.com/love.biella/" title="Instagram Profile"><img width="22" src="img/instagram.svg"> Instagram</a></code>
 </h5>
 
-<br>💻 Software Engineer @ LexisNexis<br>🎀 Front-end focus <br>🎨 UI/UX Designer, sometimes.<br>🔰 Working on a side project! 👀 <br><br>
+<br>💻 Web Developer (SWE I) at LexisNexis<br>🎀 Front-end focus | System design <br>🎨 UI/UX / Product Designer <br>🔰 Takes on Freelance Work <br><br>
 
 </div>
 
